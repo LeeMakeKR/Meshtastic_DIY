@@ -77,6 +77,9 @@ Meshtastic DIY 기기를 용도별로 분류하고 관리하기 위한 프로젝
 ![Supermini-nRF52840-smaller-PinoutA](documents/Supermini-nRF52840-smaller-PinoutA.png)
 ![Supermini-nRF52840-smaller-PinoutB](documents/Supermini-nRF52840-smaller-PinoutB.png)
 
+https://github.com/joric/nrfmicro/wiki/Alternatives#supermini-nrf52840l
+를 참조하여 구버전 제품의 vcc 풀업저항을 제거하거나 10m 로 교체할것. 
+
 #### Waveshare 전자잉크 드라이버 핀아웃
 
 | 핀 | 기능 | 설명 | NRF52 |
